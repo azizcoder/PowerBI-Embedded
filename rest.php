@@ -1,5 +1,5 @@
 <?php
-include 'flightstats.php';
+include 'pbi-logic.php';
 include 'header.php'; ?>
 
 <h1> Power BI REST calls raw output:<br></h1>

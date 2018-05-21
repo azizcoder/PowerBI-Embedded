@@ -1,5 +1,5 @@
 <?php
-include 'flightstats.php';
+include 'pbi-logic.php';
 include 'header.php'; ?>
 
 <div id="reportContainer"></div>
